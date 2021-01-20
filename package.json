@@ -1,0 +1,8 @@
+{
+  "name": "rff_toolbox",
+  "version": "0.1.0",
+  "description": "personal small tools for javascript projects",
+  "main": "toolbox.js",
+  "author": "RedFoxFinn <laborantti.antti@gmail.com>",
+  "license": "MIT"
+}
